@@ -1,0 +1,108 @@
+
+.polygon1{
+    display: inline;
+position: absolute;
+height: 278px;
+width: 289px;
+margin: 140px 305px;
+clip-path: polygon(31.31% 1.35%, 94.82% 71.26%, 94.8% 71.61%, 99.98% 5.02%);
+background-color: lightskyblue;
+}
+.polygon2{
+    display: inline;
+position: absolute;
+height: 285px;
+width: 289px;
+margin: 416px 300px;
+clip-path: polygon(61.76% 74.04%, 99.66% 55.61%, 99.65% 56.32%, 96.52% -0.67%);
+background-color: lightskyblue;
+}
+.polygon3{
+    display: inline;
+    position: absolute;
+    height: 600px;
+    width: 600px;
+    margin: -24px 300px;
+    clip-path: polygon(49.16% 31%, 48.33% 99.84%, 90% 66.33%, 89.99% 66.33%);
+    background-color: lightskyblue;
+}
+.polygon4{
+    display: inline;
+position: absolute;
+height: 208px;
+width: 234px;
+margin: 163px 712px;
+clip-path: polygon(5.75% 49.25%, 54.83% 101.52%, 81.55% 53.7%, 81.04% 53.03%);
+background-color: lightskyblue;
+}
+.polygon5{
+    display: inline;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    margin: 239px 887px;
+    clip-path: polygon(14.00% 35.00%, 17% 94%, 18% 95%, 81% 100%);
+    background-color: lightskyblue;
+}
+body{
+    background: lightgray;
+}
+h1{
+    text-align: center;
+    color: yellow;
+    
+}
+.polygongrass1{
+    display: inline;
+    position: absolute;
+    width: 30px;
+    height: 169px;
+    margin: 559px 910px;
+    clip-path: polygon(71.00% 36.78%, 17% 94%, 18% 95%, 94.33% 95.27%);
+background-color: green;
+}
+.polygongrass2{
+    display: inline;
+    position: absolute;
+    width: 30px;
+    height: 169px;
+    margin: 500px 950px;
+    clip-path: polygon(71.00% 36.78%, 17% 94%, 18% 95%, 94.33% 95.27%);
+background-color: green;
+}
+.polygongrass3{
+    display: inline;
+    position: absolute;
+    width: 30px;
+    height: 169px;
+    margin: 450px 900px;
+    clip-path: polygon(71.00% 36.78%, 17% 94%, 18% 95%, 94.33% 95.27%);
+background-color: green;
+}
+.polygongrass4{
+    display: inline;
+    position: absolute;
+    width: 30px;
+    height: 169px;
+    margin: 420px 850px;
+    clip-path: polygon(71.00% 36.78%, 17% 94%, 18% 95%, 94.33% 95.27%);
+background-color: green;
+}
+.polygongrass5{
+    display: inline;
+    position: absolute;
+    width: 30px;
+    height: 169px;
+    margin: 400px 950px;
+    clip-path: polygon(71.00% 36.78%, 17% 94%, 18% 95%, 94.33% 95.27%);
+background-color: green;
+}
+.polygongrass6{
+    display: inline;
+    position: absolute;
+    width: 30px;
+    height: 169px;
+    margin: 559px 850px;
+    clip-path: polygon(71.00% 36.78%, 17% 94%, 18% 95%, 94.33% 95.27%);
+background-color: green;
+}
